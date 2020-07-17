@@ -8,4 +8,5 @@ Example dataset is included in the repository.
 
 # Execution
 `pipenv install`
+
 `pipenv run python train.py`
